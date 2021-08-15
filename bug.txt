@@ -1,0 +1,11 @@
+ Compatibility crash bugs
+ Performance issues
+ UI and UX bugs
+ Network related issues
+ Memory leakage
+ Slow responses
+ Network related issues
+ Permission issues (camera, video, audio)
+ General functionality issues
+ Module features
+ OS version issues
